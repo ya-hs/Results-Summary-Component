@@ -1,18 +1,23 @@
 :root {
     /* Color styles */
+    /* Color styles */
     --light-lavender-1: rgba(200, 199, 255, 1);
-    --text-light-red: rgba(255, 87, 87, 0.8);
-    --text-orangey-yellow: rgba(255, 176, 31, 0.8);
-    --text-green-teal: rgba(0, 189, 145, 0.8);
-    --text-cobalt-blue: rgba(17, 37, 212, 0.8);
-    --light-lavender-2: rgba(200, 199, 255, 0.55);
-    --box-light-red: rgba(255, 87, 87, 0.05);
-    --box-orangey-yellow: rgba(255, 176, 31, 0.05);
-    --box-green-teal: rgba(0, 189, 145, 0.05);
-    --box-cobalt-blue: rgba(17, 37, 212, 0.05);
+    --text-light-red: rgba(255, 87, 87, 0.800000011920929);
+    --text-orangey-yellow: rgba(255, 176, 31, 0.800000011920929);
+    --text-green-teal: rgba(0, 189, 145, 0.800000011920929);
+    --text-cobalt-blue: rgba(17, 37, 212, 0.800000011920929);
+    --light-lavender-2: rgba(200, 199, 255, 0.550000011920929);
+    --box-light-red: rgba(255, 87, 87, 0.05000000074505806);
+    --box-orangey-yellow: rgba(255, 176, 31, 0.05000000074505806);
+    --box-green-teal: rgba(0, 189, 145, 0.05000000074505806);
+    --box-cobalt-blue: rgba(17, 37, 212, 0.05000000074505806);
     --dark-gray-blue: rgba(48, 59, 90, 1);
+    --outof100-grey-blue: rgba(48, 59, 90, 0.5);
 
     /* Effect styles */
     --container--drop--shadow: 15px 20px 51px rgba(46, 43, 233, 0.15);
 
+    /* Gradient styles */
+    --left-panel-gradient: linear-gradient(180deg, #7857FF 0%, #2F2CE9 100%);
+    --circle-gradient: linear-gradient(180deg, #4E21CA 0%, rgba(36, 33, 202, 0.00) 100%);
 }
