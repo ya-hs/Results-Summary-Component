@@ -21,3 +21,10 @@
     --left-panel-gradient: linear-gradient(180deg, #7857FF 0%, #2F2CE9 100%);
     --circle-gradient: linear-gradient(180deg, #4E21CA 0%, rgba(36, 33, 202, 0.00) 100%);
 }
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: red solid 1px;
+}
