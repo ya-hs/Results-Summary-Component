@@ -267,6 +267,7 @@ span .slash-hun {
         border-top-right-radius: 0;
         border-top-left-radius: 0;
         height: 356px;
+        width: 100vw;
     }
 
     #result {
@@ -295,5 +296,15 @@ span .slash-hun {
 
     #combined-number {
         font-size: 56px;
+    }
+
+    #right-panel {
+        margin-top: 24px;
+        height: 400px;
+        width: 100vw;
+    }
+
+    #summary-heading {
+        font-size: 18px;
     }
 }
