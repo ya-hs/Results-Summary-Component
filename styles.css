@@ -251,7 +251,6 @@ span .slash-hun {
 
 .attribution a {
     color: hsl(252, 100, 67);
-    text-decoration: none;
 }
 
 /* RESPONSIVE */
@@ -268,6 +267,7 @@ span .slash-hun {
         border-top-right-radius: 0;
         border-top-left-radius: 0;
         height: 356px;
+        width: 100vw;
     }
 
     #result {
